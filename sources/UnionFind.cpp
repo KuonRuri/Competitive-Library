@@ -4,11 +4,9 @@
  
  * <<----- Start this Library's author and license ----->>
  * © 2023 KuonRuri
- * LICENSE is MIT (see https://github.com/KuonRuri/Competitive-Library/LICENSE )
+ * LICENSE is MIT (see https://github.com/KuonRuri/Competitive-Library/blob/main/LICENSE)
  * Original is here: https://github.com/KuonRuri/Competitive-Library
- * <<----- End this Library's author and license ----->>
- 
- */
+ * <<----- End this Library's author and license ----->> */
 
 namespace kuonruri {
 

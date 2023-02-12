@@ -18,9 +18,8 @@ g++ -std=gnu++17 -Wall -Wextra -O2
 ```cpp  
 /* <<----- Start this Library's author and license ----->>
  * © 2023 KuonRuri
- * LICENSE is MIT (see https://github.com/KuonRuri/Competitive-Library )
+ * LICENSE is MIT (see https://github.com/KuonRuri/Competitive-Library/blob/main/LICENSE) 
  * Original is here: https://github.com/KuonRuri/Competitive-Library
- * <<----- End this Library's author and license ----->>
- */
+ * <<----- End this Library's author and license ----->> */
 ```  
 を併記したとき、他に著作権や承諾、ライセンスの表記は必要ないものとする。  
