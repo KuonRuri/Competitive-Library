@@ -4,7 +4,7 @@
 ## 使い方  
 それぞれのライブラリの本体は、[sources](https://github.com/KuonRuri/Competitive-Library/tree/main/sources)以下に、(アルゴリズム名).cppの名前で保存されています。  
 それぞれ独立して作られているので、必要なコードのみをコピーして使うことができます。 
-ライブラリは ``namespackuonruri`` で囲まれています。
+ライブラリは ``namespace kuonruri`` で囲まれています。
 ## ビルド  
 ```
 g++ -std=gnu++17 -Wall -Wextra -O2
