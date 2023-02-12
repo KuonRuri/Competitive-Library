@@ -1,5 +1,15 @@
 # このレポジトリについて   
-## 完成済みのライブラリ  
+## はじめに  
+競技プログラミング、特に[AtCoder](https://atcoder.jp/?lang=ja)での利用を想定したライブラリです。  
+## 使い方  
+それぞれのライブラリの本体は、[sources](https://github.com/KuonRuri/Competitive-Library/tree/main/sources)以下に、(アルゴリズム名).cppの名前で保存されています。  
+それぞれ独立して作られているので、必要なコードのみをコピーして使うことができます。 
+ライブラリは ``namespackuonruri`` で囲まれています。
+## ビルド  
+```
+g++ -std=gnu++17 -Wall -Wextra -O2
+```  
+# 完成済みのライブラリ  
   
 - [UnonFind][https://github.com/KuonRuri/Competitive-Library/blob/main/sources/UnionFind.cpp]    
   
