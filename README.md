@@ -21,5 +21,6 @@ g++ -std=gnu++17 -Wall -Wextra -O2
  * LICENSE is MIT (see https://github.com/KuonRuri/Competitive-Library )
  * Original is here: https://github.com/KuonRuri/Competitive-Library
  * <<----- End this Library's author and license ----->>
+ */
 ```  
 を併記したとき、他に著作権や承諾、ライセンスの表記は必要ないものとする。  
