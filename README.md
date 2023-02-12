@@ -11,7 +11,7 @@ g++ -std=gnu++17 -Wall -Wextra -O2
 ```  
 # 完成済みのライブラリ  
   
-- [UnonFind][https://github.com/KuonRuri/Competitive-Library/blob/main/sources/UnionFind.cpp]    
+- [UnonFind](https://github.com/KuonRuri/Competitive-Library/blob/main/sources/UnionFind.cpp)    
   
 # LICENSE
 このライブラリは、MIT Licenseのもとで公開されている。ただし、競技プログラミングのために[sources](https://github.com/KuonRuri/Competitive-Library/tree/main/sources)以下のプログラムの一部もしくは全部をジャッジサーバに送信する際、各ファイルの先頭にある、
